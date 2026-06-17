@@ -24,7 +24,7 @@ description: >
 | `10` | 疑難排解 | 報錯 / 失敗 / 修 |
 | `11` | 其他 AI 編輯器 | Claude Code / Gemini / Codex |
 | `12` | 其他部署平台 | Vercel / Cloudflare / Railway |
-| `13` | PHP+MySQL 環境 | PHP / MySQL / Composer / Docker |
+| `13` | PHP+MySQL 開發必要要求 | PHP 擴展 / MySQL 編碼 / 專案結構 / Composer |
 
 # 安裝流程
 
