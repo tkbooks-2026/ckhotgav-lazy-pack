@@ -25,6 +25,7 @@ description: >
 | `11` | 其他 AI 編輯器 | Claude Code / Gemini / Codex |
 | `12` | 其他部署平台 | Vercel / Cloudflare / Railway |
 | `13` | PHP+MySQL 開發必要要求 | PHP 擴展 / MySQL 編碼 / 專案結構 / Composer |
+| `14` | PHP+MySQL 專案開發規範 | phpmysql / 安裝精靈 / 備份還原 / CRUD / 匯入匯出 |
 
 # 安裝流程
 
